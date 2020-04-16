@@ -1,15 +1,15 @@
 // 🌟🌟🌟 M V P 🌟🌟🌟//
 
-// 🏡 Task 1: Variables
-/* Create variables for principal, interest rate, and years. Assign them the values 200000, 0.05, and 30 respectively. Create another value called name and give it the value of your own name.
-*/
+ 🏡 Task 1: Variables
+Create variables for principal, interest rate, and years. Assign them the values 200000, 0.05, and 30 respectively. Create another value called name and give it the value of your own name.
 
 
 
 
 
-// 🏡 Task 1.5: Simple Math
-/* To create a monthly mortgage rate calculator, we need to know the number of years in months and the monthly interest rate. 
+
+ 🏡 Task 1.5: Simple Math
+/ To create a monthly mortgage rate calculator, we need to know the number of years in months and the monthly interest rate. 
 
 Create a variable called `monthlyInterestRate` and give it the value of interest rate divided by 12. 
 
